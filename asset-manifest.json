@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/electric-summer/static/css/main.c9a9919f.css",
+    "main.js": "/electric-summer/static/js/main.4202979e.js",
+    "static/js/453.7aa1f5c9.chunk.js": "/electric-summer/static/js/453.7aa1f5c9.chunk.js",
+    "index.html": "/electric-summer/index.html",
+    "main.c9a9919f.css.map": "/electric-summer/static/css/main.c9a9919f.css.map",
+    "main.4202979e.js.map": "/electric-summer/static/js/main.4202979e.js.map",
+    "453.7aa1f5c9.chunk.js.map": "/electric-summer/static/js/453.7aa1f5c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a9919f.css",
+    "static/js/main.4202979e.js"
+  ]
+}
